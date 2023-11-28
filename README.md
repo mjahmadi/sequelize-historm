@@ -10,18 +10,18 @@ Efficient Storage: The plugin uses a compact storage format to minimize the impa
 Easy Integration: The plugin seamlessly integrates with your existing Sequelize setup, requiring minimal configuration.
 
 ## Installation
-To install the Sequelize History plugin, simply run the following command:
+To install the Sequelize Historm plugin, simply run the following command:
 ```bash
-npm install sequelize-history
+npm install sequelize-historm
 ```
 
 ## Usage
 To enable history tracking for a Sequelize model, follow these steps:
 
-Import the sequelize-history module:
+Import the sequelize-historm module:
 
 ```js
-const sequelizeHistory = require('sequelize-history');
+const historm = require('sequelize-historm');
 ```
 
 Add the sequelizeHistory plugin to your Sequelize model:
@@ -46,5 +46,5 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 This project is licensed under the MIT License.
 
 ## Support
-If you need any assistance or have any questions, feel free to reach out to us at support@example.com.
-We hope you find the Sequelize History plugin useful for your project! Happy coding!
+If you need any assistance or have any questions, feel free to reach out to us at mohammad.j.ahmadi@gmail.com.
+We hope you find the Sequelize Historm plugin useful for your project! Happy coding!
